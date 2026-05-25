@@ -1,0 +1,22 @@
+{
+  "name": "linuxsafetools-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build:dev": "vite build --minify false --mode development",
+    "build": "vite build --mode production --minify false",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "svelte": "^5.38.7",
+    "@wailsio/runtime": "latest",
+    "@xterm/addon-fit": "^0.11.0",
+    "@xterm/xterm": "^6.0.0"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^4.0.4",
+    "vite": "^5.0.0"
+  }
+}
