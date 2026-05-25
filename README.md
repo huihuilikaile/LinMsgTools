@@ -1,6 +1,14 @@
 # LinMsgTools
 #### 一个linux应急响应信息收集小工具，ai"匠心制作"。
 
+**技术栈：**
+
+```go
+wails3 Golang svelte xterm.js 
+```
+
+
+
 ##### **🎞️演示：**
 
 ![演示](./teml/linmsg.gif)
