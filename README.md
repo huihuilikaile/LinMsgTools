@@ -3,4 +3,4 @@
 
 **🎞️演示：**
 
-![linmsg](.\teml\linmsg.gif)
+![演示](./demo.gif)
