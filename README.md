@@ -3,4 +3,4 @@
 
 **🎞️视频演示：**
 
-<video src="E:\GitHub\LinMsgTools\teml\linmsg.mp4"></video>
+<video src=".\teml\linmsg.mp4"></video>
