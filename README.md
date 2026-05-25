@@ -11,7 +11,7 @@ wails3 Golang svelte xterm.js
 
 ##### **🎞️演示：**
 
-![演示](./teml/linmsg.gif)
+![演示](./teml/)
 
 ##### **🔨功能：**
 
